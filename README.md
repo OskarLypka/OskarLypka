@@ -16,8 +16,7 @@ I'm from Poland, currently im 3rd year computer sience student at Uniwersytet Pe
 ## :hammer_and_wrench: Technology & Tools
 
 
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50">
-<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50">
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50">
 
 
 
